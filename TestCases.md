@@ -1,2 +1,3 @@
 TestCaseList
 SetupInstructions
+CaseDetails
