@@ -2,3 +2,4 @@ TestCaseList
 SetupInstructions
 CaseDetails
 TestExamples
+ConfigSettings
