@@ -3,3 +3,4 @@ TestStrategy
 TestScenarios
 ToolDependencies
 TestingWorkflow
+ContributionGuide

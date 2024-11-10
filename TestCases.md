@@ -3,3 +3,4 @@ SetupInstructions
 CaseDetails
 TestExamples
 ConfigSettings
+CommunityRules
