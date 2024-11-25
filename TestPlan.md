@@ -4,3 +4,4 @@ TestScenarios
 ToolDependencies
 TestingWorkflow
 ContributionGuide
+ErrorHandling
