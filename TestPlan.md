@@ -5,3 +5,4 @@ ToolDependencies
 TestingWorkflow
 ContributionGuide
 ErrorHandling
+LegalNotes

@@ -4,3 +4,4 @@ CaseDetails
 TestExamples
 ConfigSettings
 CommunityRules
+LicenseDetails
