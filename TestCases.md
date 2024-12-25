@@ -5,3 +5,4 @@ TestExamples
 ConfigSettings
 CommunityRules
 LicenseDetails
+TestingFAQ
