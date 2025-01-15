@@ -6,3 +6,4 @@ TestingWorkflow
 ContributionGuide
 ErrorHandling
 LegalNotes
+Changelog
