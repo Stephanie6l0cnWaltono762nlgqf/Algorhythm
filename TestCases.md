@@ -7,3 +7,4 @@ CommunityRules
 LicenseDetails
 TestingFAQ
 TestUpdates
+TestMetrics
