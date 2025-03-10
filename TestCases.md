@@ -8,3 +8,4 @@ LicenseDetails
 TestingFAQ
 TestUpdates
 TestMetrics
+CommunityResources
